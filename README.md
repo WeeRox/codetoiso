@@ -1,4 +1,4 @@
-# keytoiso
+# codetoiso
 Convert JavaScript [KeyboardEvent](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent).code to [ISO 9995 key id](https://en.wikipedia.org/wiki/ISO/IEC_9995#Physical_division_and_reference_grid). 
 
 ## install
