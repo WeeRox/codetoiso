@@ -1,5 +1,5 @@
 # codetoiso
-Convert JavaScript [KeyboardEvent](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent).code to [ISO 9995 key id](https://en.wikipedia.org/wiki/ISO/IEC_9995#Physical_division_and_reference_grid). 
+Convert JavaScript [KeyboardEvent](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent).[code values](https://www.w3.org/TR/uievents-code/#key-media) to [ISO 9995 key id](https://en.wikipedia.org/wiki/ISO/IEC_9995#Physical_division_and_reference_grid). 
 
 ## install
 Add the code below in your `head` tag in the `html` file. The code has to go above any other JavaScript files. 
